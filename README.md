@@ -1,3 +1,19 @@
+Impotant information:
+
+This app currenty only runs on App.js the other components are excluded.
+
+It runs with react and uses local storage.
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
